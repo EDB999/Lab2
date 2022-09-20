@@ -1,0 +1,9 @@
+C:\Users\Max\source\repos\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Max\source\repos\Lab2\bin\Debug\Lab2.exe
+C:\Users\Max\source\repos\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.Lab2Form.resources
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.exe
+C:\Users\Max\source\repos\Lab2\obj\Debug\Lab2.pdb
